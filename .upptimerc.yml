@@ -5,6 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: PicoScratch Homepage
     url: https://www.picoscratch.de
+  - name: PicoScratch MINT Manager
+    url: https://mint.picoscratch.de
+  - name: PicoScratch MINT Server
+    url: https://mintsrv.picoscratch.de
+  - name: PicoScratch Learn Manager
+    url: https://manager.picoscratch.de
+  - name: PicoScratch Learn Server
+    url: https://server.picoscratch.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
