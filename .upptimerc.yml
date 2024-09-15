@@ -9,6 +9,8 @@ sites:
     url: https://mint.picoscratch.de
   - name: PicoScratch MINT Server
     url: https://mintsrv.picoscratch.de
+    expectedStatusCodes:
+      - 500
   - name: PicoScratch Learn Manager
     url: https://manager.picoscratch.de
   - name: PicoScratch Learn Server
