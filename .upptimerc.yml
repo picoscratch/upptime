@@ -12,6 +12,7 @@ status-website:
   cname: status.picoscratch.de
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/117832495?s=400&u=637662c98a68aa05d4f21b9edd33c2c5290b202a&v=4
+  favicon: https://avatars.githubusercontent.com/u/117832495?s=400&u=637662c98a68aa05d4f21b9edd33c2c5290b202a&v=4
   name: PicoScratch
   introTitle: "**PicoScratch** status"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/picoscratch/upptime).
