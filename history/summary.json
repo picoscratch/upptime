@@ -4,79 +4,87 @@
     "url": "https://www.picoscratch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.picoscratch.de.ico",
     "slug": "pico-scratch-homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 789,
     "timeDay": 577,
-    "timeWeek": 789,
+    "timeWeek": 804,
     "timeMonth": 789,
     "timeYear": 789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-22": 2
+    }
   },
   {
     "name": "PicoScratch MINT Manager",
     "url": "https://mint.picoscratch.de",
     "icon": "https://icons.duckduckgo.com/ip3/mint.picoscratch.de.ico",
     "slug": "pico-scratch-mint-manager",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 811,
     "timeDay": 540,
-    "timeWeek": 811,
+    "timeWeek": 807,
     "timeMonth": 811,
     "timeYear": 811,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-22": 2
+    }
   },
   {
     "name": "PicoScratch MINT Server",
     "url": "https://mintsrv.picoscratch.de",
     "icon": "https://icons.duckduckgo.com/ip3/mintsrv.picoscratch.de.ico",
     "slug": "pico-scratch-mint-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 646,
     "timeDay": 503,
-    "timeWeek": 646,
+    "timeWeek": 651,
     "timeMonth": 646,
     "timeYear": 646,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-22": 1
+    }
   },
   {
     "name": "PicoScratch Learn Manager",
     "url": "https://manager.picoscratch.de",
     "icon": "https://icons.duckduckgo.com/ip3/manager.picoscratch.de.ico",
     "slug": "pico-scratch-learn-manager",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 626,
     "timeDay": 516,
-    "timeWeek": 626,
+    "timeWeek": 646,
     "timeMonth": 626,
     "timeYear": 626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-22": 1
+    }
   },
   {
     "name": "PicoScratch Learn Server",
     "url": "https://server.picoscratch.de",
     "icon": "https://icons.duckduckgo.com/ip3/server.picoscratch.de.ico",
     "slug": "pico-scratch-learn-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,9 +92,11 @@
     "uptimeYear": "100.00%",
     "time": 629,
     "timeDay": 404,
-    "timeWeek": 629,
+    "timeWeek": 643,
     "timeMonth": 629,
     "timeYear": 629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-22": 0
+    }
   }
 ]
