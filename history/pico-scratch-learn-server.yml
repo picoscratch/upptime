@@ -1,7 +1,7 @@
 url: https://server.picoscratch.de
-status: up
-code: 200
-responseTime: 820
-lastUpdated: 2024-11-09T23:16:22.602Z
+status: down
+code: 502
+responseTime: 3567
+lastUpdated: 2024-11-10T13:26:33.263Z
 startTime: 2024-09-15T15:16:42.238Z
 generator: Upptime <https://github.com/upptime/upptime>
