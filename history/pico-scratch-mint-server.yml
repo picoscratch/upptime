@@ -1,7 +1,7 @@
 url: https://mintsrv.picoscratch.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-15T02:05:41.911Z
+status: up
+code: 500
+responseTime: 587
+lastUpdated: 2025-02-15T02:50:55.152Z
 startTime: 2024-09-15T15:16:38.041Z
 generator: Upptime <https://github.com/upptime/upptime>
